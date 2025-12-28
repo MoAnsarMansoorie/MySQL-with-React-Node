@@ -1,0 +1,13 @@
+.leftside{
+    width: 20%;
+    min-height: 900px;
+    background-color: #797070;
+    float: left;
+}
+
+.rightside{
+    width: 80%;
+    height: 100vh;
+    background-color: #f0a3a3;
+    float: right;
+}
